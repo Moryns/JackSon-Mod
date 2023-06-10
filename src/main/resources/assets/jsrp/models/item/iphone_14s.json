@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/iphone14_s",
+  "textures": {
+    "0": "jsrp:blocks/texture11111111",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/samsung23",
+  "textures": {
+    "0": "jsrp:blocks/8977978978",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "texture",
+		"particle": "texture"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 5],
+			"to": [12, 5, 10],
+			"faces": {
+				"north": {"uv": [2.5, 2.5, 7, 5], "texture": "#1"},
+				"east": {"uv": [0, 2.5, 2.5, 5], "texture": "#1"},
+				"south": {"uv": [9.5, 2.5, 14, 5], "texture": "#1"},
+				"west": {"uv": [7, 2.5, 9.5, 5], "texture": "#1"},
+				"up": {"uv": [7, 2.5, 2.5, 0], "texture": "#1"},
+				"down": {"uv": [11.5, 0, 7, 2.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-140.01, 2.07, -179.12],
+			"translation": [-6.25, 6.75, 3.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-110.54, 0.81, 179.95],
+			"translation": [0.75, 1, 2.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 26.75, -180],
+			"translation": [0, 4.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [180, 24.5, -180],
+			"translation": [0, 7, 0]
+		},
+		"ground": {
+			"translation": [0, 7.25, 0]
+		},
+		"gui": {
+			"rotation": [14.94, -13.85, -41.92],
+			"translation": [4.25, 4, 0],
+			"scale": [1.36, 1.17, 1.12]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

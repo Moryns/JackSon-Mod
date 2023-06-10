@@ -1,0 +1,8 @@
+{
+  "parent": "jsrp:custom/polochka",
+  "textures": {
+    "all": "jsrp:blocks/polochka",
+    "particle": "jsrp:blocks/polochka",
+    "0": "jsrp:blocks/poloshka_texture"
+  }
+}

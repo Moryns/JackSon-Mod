@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "jsrp:blocks/lime_concrete",
+    "top": "jsrp:blocks/lime_concrete",
+    "side": "jsrp:blocks/lime_concrete"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/dupina",
+  "textures": {
+    "0": "jsrp:blocks/89000000000n7",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

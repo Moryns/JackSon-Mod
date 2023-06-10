@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/wape2-1",
+  "textures": {
+    "0": "jsrp:blocks/wape1-color1__texture",
+    "particle": "jsrp:items/wape1-color1__texture"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jsrp:custom/wall-s3",
+  "textures": {
+    "all": "jsrp:blocks/walls1",
+    "particle": "jsrp:blocks/walls1",
+    "0": "jsrp:blocks/wall-s3__texture"
+  }
+}

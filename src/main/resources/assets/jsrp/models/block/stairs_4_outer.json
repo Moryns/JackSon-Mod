@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "jsrp:blocks/cyan_concrete",
+    "top": "jsrp:blocks/cyan_concrete",
+    "side": "jsrp:blocks/cyan_concrete"
+  }
+}

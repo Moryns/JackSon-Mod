@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/aptechka",
+  "textures": {
+    "1": "jsrp:blocks/xdfsdf124312324",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "jsrp:custom/lamp2",
+  "textures": {
+    "all": "jsrp:blocks/lamp2_texture",
+    "particle": "jsrp:blocks/lamp2_texture",
+    "0": "jsrp:blocks/lamp2_texture"
+  }
+}

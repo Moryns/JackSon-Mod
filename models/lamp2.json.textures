@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lamp2_texture"
+      },
+      "name": "default"
+    }
+  }
+}

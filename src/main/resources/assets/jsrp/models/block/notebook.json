@@ -1,0 +1,8 @@
+{
+  "parent": "jsrp:custom/notebook",
+  "textures": {
+    "all": "jsrp:blocks/notebook_texture",
+    "particle": "jsrp:blocks/notebook_texture",
+    "0": "jsrp:blocks/notebook_texture"
+  }
+}

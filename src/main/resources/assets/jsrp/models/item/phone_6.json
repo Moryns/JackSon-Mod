@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/iphone8plusw",
+  "textures": {
+    "0": "jsrp:blocks/8plus_white",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

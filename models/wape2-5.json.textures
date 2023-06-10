@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wape1-color5__texture"
+      },
+      "name": "default"
+    }
+  }
+}

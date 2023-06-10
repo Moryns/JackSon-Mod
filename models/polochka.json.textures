@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "poloshka_texture"
+      },
+      "name": "default"
+    }
+  }
+}

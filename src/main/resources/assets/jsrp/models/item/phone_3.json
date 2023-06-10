@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/samsungs1",
+  "textures": {
+    "3": "jsrp:blocks/samsungs1",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

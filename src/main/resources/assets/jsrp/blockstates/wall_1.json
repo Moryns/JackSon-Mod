@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jsrp:block/wall_1"
+    },
+    "facing=east": {
+      "model": "jsrp:block/wall_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jsrp:block/wall_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsrp:block/wall_1",
+      "y": 270
+    }
+  }
+}

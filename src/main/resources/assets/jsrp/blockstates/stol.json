@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jsrp:block/stol"
+    },
+    "facing=east": {
+      "model": "jsrp:block/stol",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jsrp:block/stol",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsrp:block/stol",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/corona-mask",
+  "textures": {
+    "1": "jsrp:blocks/texture",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

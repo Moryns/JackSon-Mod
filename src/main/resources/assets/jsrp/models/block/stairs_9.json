@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "jsrp:blocks/yellow_concrete",
+    "top": "jsrp:blocks/yellow_concrete",
+    "side": "jsrp:blocks/yellow_concrete"
+  }
+}

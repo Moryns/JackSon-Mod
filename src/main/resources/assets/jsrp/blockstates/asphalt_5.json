@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "jsrp:block/asphalt_5"
+    },
+    "type=top": {
+      "model": "jsrp:block/asphalt_5_top"
+    },
+    "type=double": {
+      "model": "jsrp:block/asphalt_5_full"
+    }
+  }
+}

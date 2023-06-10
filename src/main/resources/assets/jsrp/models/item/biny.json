@@ -1,0 +1,7 @@
+{
+  "parent": "jsrp:custom/bint",
+  "textures": {
+    "0": "jsrp:blocks/texture_bint",
+    "particle": "jsrp:items/poloshka_texture"
+  }
+}

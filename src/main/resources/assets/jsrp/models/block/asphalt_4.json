@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "jsrp:blocks/8888888",
+    "up": "jsrp:blocks/tratuar",
+    "north": "jsrp:blocks/8888888",
+    "east": "jsrp:blocks/8888888",
+    "south": "jsrp:blocks/8888888",
+    "west": "jsrp:blocks/8888888",
+    "particle": "jsrp:blocks/8888888"
+  }
+}

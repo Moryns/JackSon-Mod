@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "jsrp:block/polka"
+    },
+    "facing=east": {
+      "model": "jsrp:block/polka",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "jsrp:block/polka",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "jsrp:block/polka",
+      "y": 270
+    }
+  }
+}
